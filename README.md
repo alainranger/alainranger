@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alainranger
 - 👀 I’m interested in .net desktop/mobile/web development.  
-- 🌱 I’m currently learning blazor/docker and many other things
+- 🌱 I’m currently learning asp.net core/blazor/docker and many other things
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
